@@ -1,1 +1,1 @@
-# SparkADWWriter
+# SparkADW Connector
